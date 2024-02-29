@@ -43,17 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassBoardModel\Board.cs" />
+    <Compile Include="ClassBoardModel\Cell.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassBoardModel\ClassBoardModel.csproj">
-      <Project>{624eb7a3-5098-43d6-b83d-d293acccbb03}</Project>
-      <Name>ClassBoardModel</Name>
-    </ProjectReference>
+    <None Include="ClassBoardModel\ClassBoardModel.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

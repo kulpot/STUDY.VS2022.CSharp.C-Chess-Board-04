@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassBoardModel
 {
-    class Cell
+    public class Cell
     {
         //---------START--------- C# Chess Board 02 board cell classes -------------------------------
         public int RowNumber { get; set; }

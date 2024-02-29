@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassBoardModel
 {
-    class Board
+    public class Board
     {
         //---------START--------- C# Chess Board 02 board cell classes -------------------------------
         // the size of the board usually 8x8
