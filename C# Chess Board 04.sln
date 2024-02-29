@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Chess Board 04", "C# Chess Board 04\C# Chess Board 04.csproj", "{92E23C78-C16F-4133-A41A-DD3BF85E4B63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBoardModel", "ClassBoardModel\ClassBoardModel.csproj", "{624EB7A3-5098-43D6-B83D-D293ACCCBB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92E23C78-C16F-4133-A41A-DD3BF85E4B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92E23C78-C16F-4133-A41A-DD3BF85E4B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92E23C78-C16F-4133-A41A-DD3BF85E4B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624EB7A3-5098-43D6-B83D-D293ACCCBB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624EB7A3-5098-43D6-B83D-D293ACCCBB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624EB7A3-5098-43D6-B83D-D293ACCCBB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624EB7A3-5098-43D6-B83D-D293ACCCBB03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
