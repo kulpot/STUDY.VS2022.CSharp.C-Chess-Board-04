@@ -12,7 +12,8 @@ using System.Threading.Tasks;
 //-------------------- C# Chess Board 03 next legal moves -------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=iV9hBTi-QB8&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=5&t=20s
 
-//
+//-------------------- C# Chess Board 04 program flow -------------------------------------------------
+//ref link:https://www.youtube.com/watch?v=xc6C2I_wAxI&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=4
 
 namespace C__Chess_Board_02
 {
