@@ -19,8 +19,13 @@ namespace C__Chess_Board_02
 {
     class Program
     {
+        //--------START---------- C# Chess Board 04 program flow -------------------------------------------------
+        Board myBoard = new Board(8);
+        //--------END---------- C# Chess Board 04 program flow -------------------------------------------------
+
         static void Main(string[] args)
         {
+            //-------START----------- C# Chess Board 04 program flow -------------------------------------------------
 
             // show the empty chess board
 
@@ -35,6 +40,9 @@ namespace C__Chess_Board_02
 
 
             // wait for another enter key press before ending the program.
+
+            //--------END---------- C# Chess Board 04 program flow -------------------------------------------------
+
         }
     }
 }
