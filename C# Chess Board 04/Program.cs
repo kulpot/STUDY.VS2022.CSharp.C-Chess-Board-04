@@ -4,9 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C__Chess_Board_04
+//-------------------- C# Chess Board 02 board cell classes -------------------------------
+//ref link:https://www.youtube.com/watch?v=SFMVyiJ2S6g&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=3
+
+// addNewItemToSolution:class library(name:ClassBoardModel), addNewClassTo:ClassBoardModel(name:Cell.cs/Board.cs),
+
+//-------------------- C# Chess Board 03 next legal moves -------------------------------------------------
+//ref link:https://www.youtube.com/watch?v=iV9hBTi-QB8&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=5&t=20s
+
+//
+
+namespace C__Chess_Board_02
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
