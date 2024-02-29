@@ -17,10 +17,24 @@ using System.Threading.Tasks;
 
 namespace C__Chess_Board_02
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+
+            // show the empty chess board
+
+
+            // ask the user for an x and y coordinate where we will place a piece
+
+
+            // calculate all legal moves for that piece
+
+
+            // print the chess board. Use an X for occupied square. Use a + for legal move. Use . for empty cell.
+
+
+            // wait for another enter key press before ending the program.
         }
     }
 }
